@@ -9,6 +9,3009 @@
 		(rev "A")
 	)
 	(lib_symbols
+		(symbol "CC0402JRX7R7BB104_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_1_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_10"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_10_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_11"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_11_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_12"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_12_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_13"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_13_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_14"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_14_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_15"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_15_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_16"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_16_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_17"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_17_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_18"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_18_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_19"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_19_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_2"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_2_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_20"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_20_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_3"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_3_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_4"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_4_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_5"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_5_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_6"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_6_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_7"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_7_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_8"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_8_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CC0402JRX7R7BB104_9"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_9_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "easyeda2kicad_local:CC0402JRX7R7BB104"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C81"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402JRX7R7BB104"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "100nf"
+				(at 4.064 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C541464"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402JRX7R7BB104_0_1"
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "easyeda2kicad_script2:S3D26.000000B20F30T"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -14959,159 +17962,6 @@
 				)
 			)
 		)
-		(symbol "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Capacitor SMD 0603 X7R 50V 10% 100nF"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*CAP_0603*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "root_3_mirrored_CC0603KRX7R9BB104_1_0"
-				(polyline
-					(pts
-						(xy -1.778 0.508) (xy 1.778 0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -0.508) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0 0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.778 -0.508) (xy -1.778 -0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "0603 50V X7R 10%"
-					(at 0 0 0)
-					(effects
-						(font
-							(size 0.254 0.254)
-							(thickness 0.0508)
-							(bold yes)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "queenB-altium-import:root_3_mirrored_CC0805KKX5R8BB106"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -15457,12 +18307,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a1e349a-49d5-47cb-8c4d-2aa7fc59e0fd")
-	)
-	(junction
-		(at 340.36 346.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2b1082f9-94e1-42eb-bf0a-a624c89e4d23")
 	)
 	(junction
 		(at 609.6 93.6244)
@@ -16551,6 +19395,12 @@
 		(uuid "f448932f-3af1-45bd-8365-c4469fd53d46")
 	)
 	(junction
+		(at 340.36 346.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f449620d-10b7-4070-b804-afffae01540c")
+	)
+	(junction
 		(at 127 207.9244)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -16734,7 +19584,7 @@
 	)
 	(wire
 		(pts
-			(xy 749.3 108.8644) (xy 749.3 106.3244)
+			(xy 749.3 106.68) (xy 749.3 108.8644)
 		)
 		(stroke
 			(width 0)
@@ -17530,7 +20380,7 @@
 	)
 	(wire
 		(pts
-			(xy 749.3 96.1644) (xy 749.3 93.6244)
+			(xy 749.3 96.52) (xy 749.3 93.6244)
 		)
 		(stroke
 			(width 0)
@@ -19280,16 +22130,6 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 344.17) (xy 340.36 346.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ff4bc46-c600-4e96-b520-e6c317bb119d")
-	)
-	(wire
-		(pts
 			(xy 508 497.4844) (xy 518.16 497.4844)
 		)
 		(stroke
@@ -19598,6 +22438,16 @@
 			(type default)
 		)
 		(uuid "486ca8e2-7144-4cf2-a751-872ed71a3b13")
+	)
+	(wire
+		(pts
+			(xy 340.36 344.17) (xy 340.36 346.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "493ec7f6-781c-4542-8c28-aa5ade7a9290")
 	)
 	(wire
 		(pts
@@ -21249,6 +24099,16 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 346.71) (xy 350.52 346.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74b715ff-911d-4388-99ce-63923f92d953")
+	)
+	(wire
+		(pts
 			(xy 200.66 141.8844) (xy 200.66 139.3444)
 		)
 		(stroke
@@ -22193,7 +25053,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 346.71) (xy 340.36 346.71)
+			(xy 330.2 346.71) (xy 340.36 346.71)
 		)
 		(stroke
 			(width 0)
@@ -24693,16 +27553,6 @@
 			(type default)
 		)
 		(uuid "d1e919c4-b929-4744-936f-d678f49b5eef")
-	)
-	(wire
-		(pts
-			(xy 340.36 346.71) (xy 330.2 346.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d23244b6-557d-442c-b010-1cc364cd0b2e")
 	)
 	(wire
 		(pts
@@ -42226,8 +45076,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 330.2 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_3")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 330.2 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42235,7 +45086,7 @@
 		(dnp no)
 		(uuid "2bb4110b-2b66-41d8-930d-58e65e280c27")
 		(property "Reference" "C65"
-			(at 332.232 338.836 0)
+			(at 329.946 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42244,7 +45095,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 332.232 341.376 0)
+			(at 332.486 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42252,8 +45103,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 330.2 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 337.82 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42261,8 +45112,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 330.2 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 340.36 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42280,7 +45131,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42290,7 +45141,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42300,7 +45151,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42310,7 +45161,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42320,7 +45171,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42330,7 +45181,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42340,7 +45191,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42350,7 +45201,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42360,7 +45211,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42370,7 +45221,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42380,7 +45231,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42390,7 +45241,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42400,7 +45251,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42410,7 +45261,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42420,7 +45271,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42430,7 +45281,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42440,12 +45291,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 328.168 333.502 0)
+			(at 324.612 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 342.9 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -43142,8 +46002,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 340.36 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_6")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 340.36 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43151,7 +46012,7 @@
 		(dnp no)
 		(uuid "30db9b3d-c290-435e-a404-5c7492fae95b")
 		(property "Reference" "C66"
-			(at 342.392 338.836 0)
+			(at 340.106 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43160,7 +46021,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 342.392 341.376 0)
+			(at 342.646 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43168,8 +46029,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 340.36 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 347.98 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43177,8 +46038,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 340.36 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 350.52 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43196,7 +46057,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43206,7 +46067,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43216,7 +46077,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43226,7 +46087,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43236,7 +46097,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43246,7 +46107,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43256,7 +46117,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43266,7 +46127,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43276,7 +46137,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43286,7 +46147,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43296,7 +46157,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43306,7 +46167,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43316,7 +46177,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43326,7 +46187,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43336,7 +46197,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43346,7 +46207,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43356,12 +46217,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 338.328 333.502 0)
+			(at 334.772 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 353.06 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -43869,8 +46739,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 309.88 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_4")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 309.88 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43878,7 +46749,7 @@
 		(dnp no)
 		(uuid "32381f62-91a8-4b15-9547-d28b748e6a2f")
 		(property "Reference" "C63"
-			(at 311.912 338.836 0)
+			(at 309.626 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43887,7 +46758,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 311.912 341.376 0)
+			(at 312.166 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43895,8 +46766,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 309.88 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 317.5 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43904,8 +46775,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 309.88 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 320.04 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43923,7 +46794,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43933,7 +46804,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43943,7 +46814,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43953,7 +46824,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43963,7 +46834,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43973,7 +46844,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43983,7 +46854,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43993,7 +46864,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44003,7 +46874,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44013,7 +46884,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44023,7 +46894,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44033,7 +46904,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44043,7 +46914,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44053,7 +46924,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44063,7 +46934,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44073,7 +46944,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44083,12 +46954,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 307.848 333.502 0)
+			(at 304.292 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 322.58 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -44238,8 +47118,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 269.24 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_5")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 269.24 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -44247,7 +47128,7 @@
 		(dnp no)
 		(uuid "33a08b73-539f-4f3f-aeec-6aaed277c8bb")
 		(property "Reference" "C59"
-			(at 271.272 338.836 0)
+			(at 268.986 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44256,7 +47137,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 271.272 341.376 0)
+			(at 271.526 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44264,8 +47145,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 269.24 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 276.86 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44273,8 +47154,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 269.24 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 279.4 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44292,7 +47173,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44302,7 +47183,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44312,7 +47193,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44322,7 +47203,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44332,7 +47213,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44342,7 +47223,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44352,7 +47233,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44362,7 +47243,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44372,7 +47253,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44382,7 +47263,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44392,7 +47273,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44402,7 +47283,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44412,7 +47293,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44422,7 +47303,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44432,7 +47313,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44442,7 +47323,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44452,12 +47333,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 267.208 333.502 0)
+			(at 263.652 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 281.94 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -50525,8 +53415,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 320.04 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_2")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 320.04 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -50534,7 +53425,7 @@
 		(dnp no)
 		(uuid "4c7025dc-2ecc-43b4-9fd8-3abeb56c6038")
 		(property "Reference" "C64"
-			(at 322.072 338.836 0)
+			(at 319.786 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50543,7 +53434,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 322.072 341.376 0)
+			(at 322.326 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50551,8 +53442,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 320.04 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 327.66 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50560,8 +53451,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 320.04 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 330.2 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50579,7 +53470,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50589,7 +53480,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50599,7 +53490,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50609,7 +53500,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50619,7 +53510,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50629,7 +53520,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50639,7 +53530,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50649,7 +53540,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50659,7 +53550,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50669,7 +53560,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50679,7 +53570,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50689,7 +53580,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50699,7 +53590,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50709,7 +53600,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50719,7 +53610,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50729,7 +53620,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50739,12 +53630,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 318.008 333.502 0)
+			(at 314.452 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 332.74 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -55024,7 +57924,8 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
+		(lib_name "CC0402JRX7R7BB104_10")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
 		(at 690.88 431.4444 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -55050,8 +57951,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 690.88 431.4444 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 690.88 439.0644 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55059,8 +57960,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 690.88 431.4444 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 690.88 441.6044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55244,6 +58145,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 690.88 444.1444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -56000,8 +58910,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 238.76 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_7")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 238.76 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -56009,7 +58920,7 @@
 		(dnp no)
 		(uuid "6f48bd2d-3290-4629-ad62-7186214a160a")
 		(property "Reference" "C56"
-			(at 240.792 338.836 0)
+			(at 238.506 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56018,7 +58929,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 240.792 341.376 0)
+			(at 241.046 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56026,8 +58937,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 238.76 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 246.38 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56035,8 +58946,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 238.76 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 248.92 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56054,7 +58965,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56064,7 +58975,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56074,7 +58985,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56084,7 +58995,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56094,7 +59005,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56104,7 +59015,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56114,7 +59025,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56124,7 +59035,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56134,7 +59045,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56144,7 +59055,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56154,7 +59065,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56164,7 +59075,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56174,7 +59085,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56184,7 +59095,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56194,7 +59105,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56204,7 +59115,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56214,12 +59125,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 236.728 333.502 0)
+			(at 233.172 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 251.46 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -57541,8 +60461,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 228.6 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_8")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 228.6 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -57550,7 +60471,7 @@
 		(dnp no)
 		(uuid "750ec1e5-67fe-4df6-82dd-cdc385b83ca2")
 		(property "Reference" "C55"
-			(at 230.632 338.836 0)
+			(at 228.346 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57559,7 +60480,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 230.632 341.376 0)
+			(at 230.886 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57567,8 +60488,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 228.6 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 236.22 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57576,8 +60497,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 228.6 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 238.76 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57595,7 +60516,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57605,7 +60526,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57615,7 +60536,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57625,7 +60546,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57635,7 +60556,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57645,7 +60566,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57655,7 +60576,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57665,7 +60586,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57675,7 +60596,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57685,7 +60606,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57695,7 +60616,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57705,7 +60626,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57715,7 +60636,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57725,7 +60646,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57735,7 +60656,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57745,7 +60666,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57755,12 +60676,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 226.568 333.502 0)
+			(at 223.012 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 241.3 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -59085,8 +62015,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 248.92 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_11")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 248.92 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -59094,7 +62025,7 @@
 		(dnp no)
 		(uuid "7df98291-894f-4725-8f44-5f2cb1999016")
 		(property "Reference" "C57"
-			(at 250.952 338.836 0)
+			(at 248.666 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59103,7 +62034,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 250.952 341.376 0)
+			(at 251.206 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59111,8 +62042,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 248.92 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 256.54 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59120,8 +62051,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 248.92 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 259.08 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59139,7 +62070,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59149,7 +62080,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59159,7 +62090,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59169,7 +62100,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59179,7 +62110,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59189,7 +62120,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59199,7 +62130,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59209,7 +62140,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59219,7 +62150,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59229,7 +62160,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59239,7 +62170,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59249,7 +62180,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59259,7 +62190,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59269,7 +62200,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59279,7 +62210,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59289,7 +62220,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59299,12 +62230,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 246.888 333.502 0)
+			(at 243.332 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 261.62 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -59806,6 +62746,82 @@
 			(project ""
 				(path "/3fd9ca00-8422-44d7-bea3-587d80b5359e"
 					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 271.78 373.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "80ea88aa-6154-4705-803a-677c24c4c7d5")
+		(property "Reference" "C81"
+			(at 271.78 367.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CC0402JRX7R7BB104"
+			(at 271.78 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 271.78 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 271.78 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100nf"
+			(at 275.844 375.158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 271.78 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cdc4b002-0ffb-4cf7-87f0-20365662c9f6")
+		)
+		(pin "1"
+			(uuid "dad42019-40f5-4661-8021-ae425ee44875")
+		)
+		(instances
+			(project ""
+				(path "/3fd9ca00-8422-44d7-bea3-587d80b5359e"
+					(reference "C81")
 					(unit 1)
 				)
 			)
@@ -61525,8 +64541,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 289.56 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_12")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 289.56 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -61534,7 +64551,7 @@
 		(dnp no)
 		(uuid "86b822f5-86b3-49de-a158-f90cc447b6a0")
 		(property "Reference" "C61"
-			(at 291.592 338.836 0)
+			(at 289.306 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61543,7 +64560,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 291.592 341.376 0)
+			(at 291.846 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61551,8 +64568,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 289.56 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 297.18 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61560,8 +64577,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 289.56 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 299.72 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61579,7 +64596,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61589,7 +64606,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61599,7 +64616,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61609,7 +64626,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61619,7 +64636,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61629,7 +64646,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61639,7 +64656,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61649,7 +64666,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61659,7 +64676,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61669,7 +64686,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61679,7 +64696,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61689,7 +64706,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61699,7 +64716,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61709,7 +64726,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61719,7 +64736,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61729,7 +64746,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61739,12 +64756,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 287.528 333.502 0)
+			(at 283.972 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 302.26 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -61764,8 +64790,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 360.68 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_9")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 360.68 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -61773,7 +64800,7 @@
 		(dnp no)
 		(uuid "86b8a9b4-13a7-4367-98df-b14a09a31733")
 		(property "Reference" "C68"
-			(at 362.712 338.836 0)
+			(at 358.394 340.868 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61782,7 +64809,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 362.712 341.376 0)
+			(at 362.966 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61790,8 +64817,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 360.68 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 368.3 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61799,8 +64826,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 360.68 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 370.84 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61818,7 +64845,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61828,7 +64855,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61838,7 +64865,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61848,7 +64875,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61858,7 +64885,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61868,7 +64895,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61878,7 +64905,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61888,7 +64915,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61898,7 +64925,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61908,7 +64935,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61918,7 +64945,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61928,7 +64955,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61938,7 +64965,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61948,7 +64975,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61958,7 +64985,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61968,7 +64995,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61978,12 +65005,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 358.648 333.502 0)
+			(at 355.092 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 373.38 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -63400,7 +66436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad_script2:OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI"
+		(property "Footprint" "easyeda2kicad_local:OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI"
 			(at 227.584 447.802 0)
 			(effects
 				(font
@@ -64538,8 +67574,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 299.72 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_15")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 299.72 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64547,7 +67584,7 @@
 		(dnp no)
 		(uuid "9a35183d-a004-4d38-a44f-41034982448c")
 		(property "Reference" "C62"
-			(at 301.752 338.836 0)
+			(at 299.466 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64556,7 +67593,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 301.752 341.376 0)
+			(at 302.006 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64564,8 +67601,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 299.72 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 307.34 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64573,8 +67610,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 299.72 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 309.88 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64592,7 +67629,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64602,7 +67639,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64612,7 +67649,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64622,7 +67659,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64632,7 +67669,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64642,7 +67679,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64652,7 +67689,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64662,7 +67699,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64672,7 +67709,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64682,7 +67719,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64692,7 +67729,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64702,7 +67739,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64712,7 +67749,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64722,7 +67759,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64732,7 +67769,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64742,7 +67779,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64752,12 +67789,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 297.688 333.502 0)
+			(at 294.132 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 312.42 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -67381,8 +70427,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 749.3 101.2444 0)
+		(lib_name "CC0402JRX7R7BB104_17")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 749.3 101.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -67390,7 +70437,7 @@
 		(dnp no)
 		(uuid "a6b906d7-3b7d-4882-a9da-a1dce89fcb58")
 		(property "Reference" "C20"
-			(at 751.332 100.9904 0)
+			(at 749.554 103.632 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67399,7 +70446,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 751.332 103.5304 0)
+			(at 745.236 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67407,8 +70454,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 749.3 101.2444 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 741.68 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67416,8 +70463,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 749.3 101.2444 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 739.14 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67426,7 +70473,7 @@
 			)
 		)
 		(property "Description" "Capacitor SMD 0603 X7R 50V 10% 100nF"
-			(at 749.3 101.2444 0)
+			(at 749.3 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67435,7 +70482,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67445,7 +70492,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67455,7 +70502,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67465,7 +70512,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67475,7 +70522,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67485,7 +70532,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67495,7 +70542,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67505,7 +70552,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67515,7 +70562,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67525,7 +70572,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67535,7 +70582,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67545,7 +70592,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67555,7 +70602,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67565,7 +70612,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67575,7 +70622,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67585,7 +70632,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67595,12 +70642,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 747.268 95.6564 0)
+			(at 754.888 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 736.6 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -68309,7 +71365,8 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
+		(lib_name "CC0402JRX7R7BB104_13")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
 		(at 614.68 431.4444 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -68335,8 +71392,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 614.68 431.4444 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 614.68 439.0644 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68344,8 +71401,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 614.68 431.4444 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 614.68 441.6044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68529,6 +71586,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 614.68 444.1444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -69332,8 +72398,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 350.52 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_14")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 350.52 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -69341,7 +72408,7 @@
 		(dnp no)
 		(uuid "ad3d60fa-0539-47c3-835e-7ce73b6fbf40")
 		(property "Reference" "C67"
-			(at 352.552 338.836 0)
+			(at 348.234 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69350,7 +72417,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 352.552 341.376 0)
+			(at 352.806 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69358,8 +72425,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 350.52 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 358.14 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69367,8 +72434,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 350.52 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 360.68 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69386,7 +72453,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69396,7 +72463,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69406,7 +72473,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69416,7 +72483,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69426,7 +72493,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69436,7 +72503,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69446,7 +72513,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69456,7 +72523,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69466,7 +72533,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69476,7 +72543,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69486,7 +72553,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69496,7 +72563,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69506,7 +72573,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69516,7 +72583,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69526,7 +72593,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69536,7 +72603,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69546,12 +72613,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 348.488 333.502 0)
+			(at 344.932 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 363.22 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -69636,8 +72712,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 279.4 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_18")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 279.4 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -69645,7 +72722,7 @@
 		(dnp no)
 		(uuid "ae5a7070-10f3-427e-b630-660dd5d08fe2")
 		(property "Reference" "C60"
-			(at 281.432 338.836 0)
+			(at 279.146 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69654,7 +72731,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 281.432 341.376 0)
+			(at 281.686 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69662,8 +72739,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 279.4 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 287.02 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69671,8 +72748,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 279.4 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 289.56 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69690,7 +72767,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69700,7 +72777,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69710,7 +72787,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69720,7 +72797,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69730,7 +72807,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69740,7 +72817,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69750,7 +72827,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69760,7 +72837,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69770,7 +72847,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69780,7 +72857,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69790,7 +72867,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69800,7 +72877,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69810,7 +72887,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69820,7 +72897,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69830,7 +72907,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69840,7 +72917,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69850,12 +72927,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 277.368 333.502 0)
+			(at 273.812 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 292.1 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -72744,8 +75830,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 259.08 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_16")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 259.08 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -72753,7 +75840,7 @@
 		(dnp no)
 		(uuid "bedbf780-8850-48d7-8605-cb2086d05a30")
 		(property "Reference" "C58"
-			(at 261.112 338.836 0)
+			(at 258.826 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72762,7 +75849,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 261.112 341.376 0)
+			(at 261.366 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72770,8 +75857,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 259.08 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 266.7 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72779,8 +75866,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 259.08 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 269.24 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72798,7 +75885,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72808,7 +75895,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72818,7 +75905,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72828,7 +75915,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72838,7 +75925,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72848,7 +75935,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72858,7 +75945,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72868,7 +75955,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72878,7 +75965,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72888,7 +75975,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72898,7 +75985,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72908,7 +75995,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72918,7 +76005,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72928,7 +76015,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72938,7 +76025,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72948,7 +76035,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72958,12 +76045,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 257.048 333.502 0)
+			(at 253.492 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 271.78 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -76148,7 +79244,8 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
+		(lib_name "CC0402JRX7R7BB104_19")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
 		(at 749.3 141.8844 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -76174,8 +79271,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 749.3 141.8844 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 749.3 149.5044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76183,8 +79280,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 749.3 141.8844 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 749.3 152.0444 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76368,6 +79465,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 749.3 154.5844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -81283,7 +84389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:LQFP-176_L24.0-W24.0-P0.50-LS26.0-BL"
+		(property "Footprint" "easyeda2kicad_local:LQFP-176_L24.0-W24.0-P0.50-LS26.0-BL"
 			(at 134.62 530.86 0)
 			(effects
 				(font
@@ -84844,8 +87950,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 370.84 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_20")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 370.84 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -84853,7 +87960,7 @@
 		(dnp no)
 		(uuid "f4c52158-dedd-4212-a356-19a3bc5237c0")
 		(property "Reference" "C69"
-			(at 372.872 338.836 0)
+			(at 368.554 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84862,7 +87969,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 372.872 341.376 0)
+			(at 373.126 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84870,8 +87977,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 370.84 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 378.46 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84879,8 +87986,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 370.84 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 381 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84898,7 +88005,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84908,7 +88015,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84918,7 +88025,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84928,7 +88035,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84938,7 +88045,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84948,7 +88055,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84958,7 +88065,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84968,7 +88075,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84978,7 +88085,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84988,7 +88095,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84998,7 +88105,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85008,7 +88115,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85018,7 +88125,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85028,7 +88135,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85038,7 +88145,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85048,7 +88155,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85058,12 +88165,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 368.808 333.502 0)
+			(at 365.252 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 383.54 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -86408,8 +89524,9 @@
 		)
 	)
 	(symbol
-		(lib_id "queenB-altium-import:root_3_mirrored_CC0603KRX7R9BB104")
-		(at 218.44 339.09 0)
+		(lib_name "CC0402JRX7R7BB104_1")
+		(lib_id "easyeda2kicad_local:CC0402JRX7R7BB104")
+		(at 218.44 339.09 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -86417,7 +89534,7 @@
 		(dnp no)
 		(uuid "fe4f6979-1824-43f2-8b81-d1a85db9d96c")
 		(property "Reference" "C54"
-			(at 220.472 338.836 0)
+			(at 218.186 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86426,7 +89543,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 220.472 341.376 0)
+			(at 220.726 337.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86434,8 +89551,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAP_0603"
-			(at 218.44 339.09 0)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 226.06 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86443,8 +89560,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 218.44 339.09 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/presales_YAGEO-CC0402JRX7R7BB104_C541464.html"
+			(at 228.6 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86462,7 +89579,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86472,7 +89589,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "CC0603KRX7R9BB104"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86482,7 +89599,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 1" "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86492,7 +89609,7 @@
 			)
 		)
 		(property "DISTRIBUTOR LINK 2" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwE4AhYgRkQBYQBdAXyA"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86502,7 +89619,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86512,7 +89629,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86522,7 +89639,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86532,7 +89649,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86542,7 +89659,7 @@
 			)
 		)
 		(property "MOUNTING TYPE" "SMD"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86552,7 +89669,7 @@
 			)
 		)
 		(property "PACKAGE" "0603"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86562,7 +89679,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86572,7 +89689,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "https://www.mouser.com/datasheet/2/447/UPY_GPHC_X7R_6_3V_to_250V_23-3084653.pdf"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86582,7 +89699,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86592,7 +89709,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86602,7 +89719,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "311-1344-1-ND"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86612,7 +89729,7 @@
 			)
 		)
 		(property "SUPPLIER 2" "Mouser"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86622,12 +89739,21 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" "603-CC603KRX7R9BB104"
-			(at 216.408 333.502 0)
+			(at 212.852 341.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C541464"
+			(at 231.14 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
