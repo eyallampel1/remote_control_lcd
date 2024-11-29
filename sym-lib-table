@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "queenB-altium-import")(type "KiCad")(uri "${KIPRJMOD}/queenB-altium-import.kicad_sym")(options "")(descr ""))
+)
