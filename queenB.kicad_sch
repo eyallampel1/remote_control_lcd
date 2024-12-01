@@ -13,8 +13,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J3"
-				(at -0.254 28.194 0)
+			(property "Reference" "U"
+				(at 0 25.4 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -22,7 +22,7 @@
 				)
 			)
 			(property "Value" "PM254-2-17-Z-8.5"
-				(at 0.254 25.908 0)
+				(at 0 -25.4 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -39,7 +39,7 @@
 				)
 			)
 			(property "Datasheet" ""
-				(at 0 1.27 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -48,7 +48,7 @@
 				)
 			)
 			(property "Description" ""
-				(at 0 1.27 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -65,45 +65,33 @@
 					(hide yes)
 				)
 			)
-			(symbol "PM254-2-17-Z-8.5_1_0"
+			(symbol "PM254-2-17-Z-8.5_0_1"
 				(rectangle
-					(start -2.54 24.13)
-					(end 2.54 -21.59)
+					(start -5.08 22.86)
+					(end 5.08 -22.86)
 					(stroke
-						(width 0.0254)
-						(type solid)
-						(color 128 0 0 1)
+						(width 0)
+						(type default)
 					)
 					(fill
 						(type background)
 					)
 				)
-				(text "Female Header"
-					(at 0 21.59 900)
-					(effects
-						(font
-							(size 1.27 1.27)
-							(thickness 0.254)
-							(bold yes)
-						)
-						(justify right)
+				(circle
+					(center -3.81 21.59)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
-				(text "Sullins 34P 2.54mm"
-					(at 3.048 -21.336 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-							(thickness 0.254)
-							(bold yes)
-						)
-						(justify left)
-					)
-				)
-				(pin passive line
-					(at -5.08 21.59 0)
+				(pin unspecified line
+					(at -7.62 20.32 0)
 					(length 2.54)
-					(name ""
+					(name "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -118,10 +106,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 11.43 180)
+				(pin unspecified line
+					(at -7.62 -2.54 0)
 					(length 2.54)
-					(name ""
+					(name "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -136,10 +124,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 8.89 0)
+				(pin unspecified line
+					(at -7.62 -5.08 0)
 					(length 2.54)
-					(name ""
+					(name "11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -154,10 +142,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 8.89 180)
+				(pin unspecified line
+					(at -7.62 -7.62 0)
 					(length 2.54)
-					(name ""
+					(name "12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -172,10 +160,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 6.35 0)
+				(pin unspecified line
+					(at -7.62 -10.16 0)
 					(length 2.54)
-					(name ""
+					(name "13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -190,10 +178,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 6.35 180)
+				(pin unspecified line
+					(at -7.62 -12.7 0)
 					(length 2.54)
-					(name ""
+					(name "14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -208,10 +196,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 3.81 0)
+				(pin unspecified line
+					(at -7.62 -15.24 0)
 					(length 2.54)
-					(name ""
+					(name "15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -226,10 +214,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 3.81 180)
+				(pin unspecified line
+					(at -7.62 -17.78 0)
 					(length 2.54)
-					(name ""
+					(name "16"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -244,10 +232,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 1.27 0)
+				(pin unspecified line
+					(at -7.62 -20.32 0)
 					(length 2.54)
-					(name ""
+					(name "17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -262,10 +250,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 1.27 180)
+				(pin unspecified line
+					(at 7.62 -20.32 180)
 					(length 2.54)
-					(name ""
+					(name "18"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -280,10 +268,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 -1.27 0)
+				(pin unspecified line
+					(at 7.62 -17.78 180)
 					(length 2.54)
-					(name ""
+					(name "19"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -298,10 +286,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 21.59 180)
+				(pin unspecified line
+					(at -7.62 17.78 0)
 					(length 2.54)
-					(name ""
+					(name "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -316,10 +304,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 -1.27 180)
+				(pin unspecified line
+					(at 7.62 -15.24 180)
 					(length 2.54)
-					(name ""
+					(name "20"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -334,10 +322,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 -3.81 0)
+				(pin unspecified line
+					(at 7.62 -12.7 180)
 					(length 2.54)
-					(name ""
+					(name "21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -352,10 +340,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 -3.81 180)
+				(pin unspecified line
+					(at 7.62 -10.16 180)
 					(length 2.54)
-					(name ""
+					(name "22"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -370,10 +358,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 -6.35 0)
+				(pin unspecified line
+					(at 7.62 -7.62 180)
 					(length 2.54)
-					(name ""
+					(name "23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -388,10 +376,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 -6.35 180)
+				(pin unspecified line
+					(at 7.62 -5.08 180)
 					(length 2.54)
-					(name ""
+					(name "24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -406,10 +394,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 -8.89 0)
+				(pin unspecified line
+					(at 7.62 -2.54 180)
 					(length 2.54)
-					(name ""
+					(name "25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -424,10 +412,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 -8.89 180)
+				(pin unspecified line
+					(at 7.62 0 180)
 					(length 2.54)
-					(name ""
+					(name "26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -442,10 +430,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 -11.43 0)
+				(pin unspecified line
+					(at 7.62 2.54 180)
 					(length 2.54)
-					(name ""
+					(name "27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -460,10 +448,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 -11.43 180)
+				(pin unspecified line
+					(at 7.62 5.08 180)
 					(length 2.54)
-					(name ""
+					(name "28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -478,10 +466,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 -13.97 0)
+				(pin unspecified line
+					(at 7.62 7.62 180)
 					(length 2.54)
-					(name ""
+					(name "29"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -496,10 +484,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 19.05 0)
+				(pin unspecified line
+					(at -7.62 15.24 0)
 					(length 2.54)
-					(name ""
+					(name "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -514,10 +502,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 -13.97 180)
+				(pin unspecified line
+					(at 7.62 10.16 180)
 					(length 2.54)
-					(name ""
+					(name "30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -532,10 +520,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 -16.51 0)
+				(pin unspecified line
+					(at 7.62 12.7 180)
 					(length 2.54)
-					(name ""
+					(name "31"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -550,10 +538,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 -16.51 180)
+				(pin unspecified line
+					(at 7.62 15.24 180)
 					(length 2.54)
-					(name ""
+					(name "32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -568,10 +556,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 -19.05 0)
+				(pin unspecified line
+					(at 7.62 17.78 180)
 					(length 2.54)
-					(name ""
+					(name "33"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -586,10 +574,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 -19.05 180)
+				(pin unspecified line
+					(at 7.62 20.32 180)
 					(length 2.54)
-					(name ""
+					(name "34"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -604,10 +592,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 19.05 180)
+				(pin unspecified line
+					(at -7.62 12.7 0)
 					(length 2.54)
-					(name ""
+					(name "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -622,10 +610,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 16.51 0)
+				(pin unspecified line
+					(at -7.62 10.16 0)
 					(length 2.54)
-					(name ""
+					(name "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -640,10 +628,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 16.51 180)
+				(pin unspecified line
+					(at -7.62 7.62 0)
 					(length 2.54)
-					(name ""
+					(name "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -658,10 +646,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 13.97 0)
+				(pin unspecified line
+					(at -7.62 5.08 0)
 					(length 2.54)
-					(name ""
+					(name "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -676,10 +664,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 13.97 180)
+				(pin unspecified line
+					(at -7.62 2.54 0)
 					(length 2.54)
-					(name ""
+					(name "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -694,10 +682,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -5.08 11.43 0)
+				(pin unspecified line
+					(at -7.62 0 0)
 					(length 2.54)
-					(name ""
+					(name "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -718,8 +706,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "X3"
-				(at -13.716 -14.732 0)
+			(property "Reference" "X"
+				(at 0 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -727,15 +715,15 @@
 				)
 			)
 			(property "Value" "S3D26.000000B20F30T"
-				(at -13.716 -12.192 0)
+				(at 0 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" "easyeda2kicad_script2:OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI"
-				(at -13.716 -14.732 0)
+			(property "Footprint" "easyeda2kicad:OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI"
+				(at 0 -7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -744,7 +732,7 @@
 				)
 			)
 			(property "Datasheet" "https://lcsc.com/product-detail/SMD-Oscillators-XO_Shenzhen-SCTF-Elec-S3D26-000000B20F30T_C387401.html"
-				(at -13.716 -17.272 0)
+				(at 0 -10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -762,7 +750,7 @@
 				)
 			)
 			(property "LCSC Part" "C387401"
-				(at -13.716 -19.812 0)
+				(at 0 -12.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -773,7 +761,7 @@
 			(symbol "S3D26.000000B20F30T_0_1"
 				(rectangle
 					(start -15.24 5.08)
-					(end 15.24 -10.16)
+					(end 15.24 -2.54)
 					(stroke
 						(width 0)
 						(type default)
@@ -783,7 +771,7 @@
 					)
 				)
 				(circle
-					(center 13.97 0)
+					(center -13.97 3.81)
 					(radius 0.38)
 					(stroke
 						(width 0)
@@ -794,7 +782,25 @@
 					)
 				)
 				(pin unspecified line
-					(at 0 -12.7 90)
+					(at -17.78 2.54 0)
+					(length 2.54)
+					(name "Tri-state"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -17.78 0 0)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -812,7 +818,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -17.78 -2.54 0)
+					(at 17.78 0 180)
 					(length 2.54)
 					(name "OUTPUT"
 						(effects
@@ -830,7 +836,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 0 7.62 270)
+					(at 17.78 2.54 180)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -848,156 +854,21 @@
 					)
 				)
 			)
-			(symbol "S3D26.000000B20F30T_1_1"
-				(polyline
-					(pts
-						(xy -0.254 -3.048) (xy -0.762 -3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.254 -2.54) (xy -0.254 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.508 -2.286) (xy 1.778 -2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -3.048) (xy 3.048 -3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.508 -2.286) (xy 0.508 -4.318) (xy 1.778 -4.318) (xy 1.778 -2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -1.27) (xy 5.08 -1.27) (xy 5.08 -5.08) (xy -2.54 -5.08) (xy -2.54 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -13.716 -8.382) (xy -13.716 -6.096) (xy -11.43 -6.096) (xy -11.43 -8.382) (xy -9.144 -8.382)
-						(xy -9.144 -6.096) (xy -7.112 -6.096) (xy -7.112 -8.382)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "26MHZ\n25ppm\n"
-					(at -10.922 2.286 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-							(color 255 21 54 1)
-						)
-					)
-				)
-				(text "CMOS\nOSC"
-					(at 8.636 2.54 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-							(color 255 21 54 1)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 17.78 -2.54 180)
-					(length 2.54)
-					(name "EN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
 		)
 		(symbol "easyeda2kicad_script2:STM32H743IIT6"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U5"
-				(at 0.762 34.036 0)
+			(property "Reference" "U"
+				(at 0 73.66 0)
 				(effects
 					(font
-						(size 12.7 12.7)
+						(size 1.27 1.27)
 					)
 				)
 			)
 			(property "Value" "STM32H743IIT6"
-				(at 1.524 9.652 0)
+				(at 0 -76.2 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1005,7 +876,7 @@
 				)
 			)
 			(property "Footprint" "easyeda2kicad:LQFP-176_L24.0-W24.0-P0.50-LS26.0-BL"
-				(at 0 -77.47 0)
+				(at 0 -78.74 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1014,7 +885,7 @@
 				)
 			)
 			(property "Datasheet" "https://lcsc.com/product-detail/ST-Microelectronics_STMicroelectronics_STM32H743IIT6_STM32H743IIT6_C89597.html"
-				(at 0 -80.01 0)
+				(at 0 -81.28 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1023,7 +894,7 @@
 				)
 			)
 			(property "Description" ""
-				(at 0 1.27 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1032,7 +903,7 @@
 				)
 			)
 			(property "LCSC Part" "C89597"
-				(at 0 -82.55 0)
+				(at 0 -83.82 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1040,51 +911,31 @@
 					(hide yes)
 				)
 			)
-			(symbol "STM32H743IIT6_1_0"
+			(symbol "STM32H743IIT6_0_1"
 				(rectangle
-					(start -40.64 109.22)
-					(end 45.72 -111.76)
+					(start -81.28 66.04)
+					(end 83.82 -68.58)
 					(stroke
-						(width 0.254)
-						(type solid)
-						(color 128 0 0 1)
+						(width 0)
+						(type default)
 					)
 					(fill
 						(type background)
 					)
 				)
-				(text "LQFP-176"
-					(at 2.54 -99.06 0)
-					(effects
-						(font
-							(size 2.286 2.286)
-							(thickness 0.4572)
-							(bold yes)
-						)
+				(circle
+					(center -80.01 64.77)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
-				(text "STM32H743IIT6"
-					(at 2.54 -5.08 0)
-					(effects
-						(font
-							(size 2.286 2.286)
-							(thickness 0.4572)
-							(bold yes)
-						)
-					)
-				)
-				(text "STMicroelectronics"
-					(at 2.54 2.54 0)
-					(effects
-						(font
-							(size 3.048 3.048)
-							(thickness 0.6096)
-							(bold yes)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -43.18 -73.66 0)
+				(pin unspecified line
+					(at -83.82 53.34 0)
 					(length 2.54)
 					(name "PE2"
 						(effects
@@ -1101,8 +952,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -20.32 0)
+				(pin unspecified line
+					(at -83.82 30.48 0)
 					(length 2.54)
 					(name "PC15-OSC32_OUT"
 						(effects
@@ -1119,8 +970,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -55.88 0)
+				(pin unspecified line
+					(at 86.36 -27.94 180)
 					(length 2.54)
 					(name "PD12"
 						(effects
@@ -1137,8 +988,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -58.42 0)
+				(pin unspecified line
+					(at 86.36 -25.4 180)
 					(length 2.54)
 					(name "PD13"
 						(effects
@@ -1155,8 +1006,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 2.54 -114.3 90)
+				(pin unspecified line
+					(at 86.36 -22.86 180)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -1173,8 +1024,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 0 111.76 270)
+				(pin unspecified line
+					(at 86.36 -20.32 180)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -1191,8 +1042,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -60.96 0)
+				(pin unspecified line
+					(at 86.36 -17.78 180)
 					(length 2.54)
 					(name "PD14"
 						(effects
@@ -1209,8 +1060,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -63.5 0)
+				(pin unspecified line
+					(at 86.36 -15.24 180)
 					(length 2.54)
 					(name "PD15"
 						(effects
@@ -1227,8 +1078,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 55.88 180)
+				(pin unspecified line
+					(at 86.36 -12.7 180)
 					(length 2.54)
 					(name "PG2"
 						(effects
@@ -1245,8 +1096,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 53.34 180)
+				(pin unspecified line
+					(at 86.36 -10.16 180)
 					(length 2.54)
 					(name "PG3"
 						(effects
@@ -1263,8 +1114,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 50.8 180)
+				(pin unspecified line
+					(at 86.36 -7.62 180)
 					(length 2.54)
 					(name "PG4"
 						(effects
@@ -1281,8 +1132,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 48.26 180)
+				(pin unspecified line
+					(at 86.36 -5.08 180)
 					(length 2.54)
 					(name "PG5"
 						(effects
@@ -1299,8 +1150,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -48.26 180)
+				(pin unspecified line
+					(at -83.82 27.94 0)
 					(length 2.54)
 					(name "PI9"
 						(effects
@@ -1317,8 +1168,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 45.72 180)
+				(pin unspecified line
+					(at 86.36 -2.54 180)
 					(length 2.54)
 					(name "PG6"
 						(effects
@@ -1335,8 +1186,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 43.18 180)
+				(pin unspecified line
+					(at 86.36 0 180)
 					(length 2.54)
 					(name "PG7"
 						(effects
@@ -1353,8 +1204,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 40.64 180)
+				(pin unspecified line
+					(at 86.36 2.54 180)
 					(length 2.54)
 					(name "PG8"
 						(effects
@@ -1371,8 +1222,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 5.08 -114.3 90)
+				(pin unspecified line
+					(at 86.36 5.08 180)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -1389,10 +1240,10 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 17.78 111.76 270)
+				(pin unspecified line
+					(at 86.36 7.62 180)
 					(length 2.54)
-					(name "VDD33_USB"
+					(name "VDD33USB"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1407,8 +1258,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 2.54 0)
+				(pin unspecified line
+					(at 86.36 10.16 180)
 					(length 2.54)
 					(name "PC6"
 						(effects
@@ -1425,8 +1276,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 0 0)
+				(pin unspecified line
+					(at 86.36 12.7 180)
 					(length 2.54)
 					(name "PC7"
 						(effects
@@ -1443,8 +1294,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -2.54 0)
+				(pin unspecified line
+					(at 86.36 15.24 180)
 					(length 2.54)
 					(name "PC8"
 						(effects
@@ -1461,8 +1312,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -5.08 0)
+				(pin unspecified line
+					(at 86.36 17.78 180)
 					(length 2.54)
 					(name "PC9"
 						(effects
@@ -1479,8 +1330,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 83.82 0)
+				(pin unspecified line
+					(at 86.36 20.32 180)
 					(length 2.54)
 					(name "PA8"
 						(effects
@@ -1497,8 +1348,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -50.8 180)
+				(pin unspecified line
+					(at -83.82 25.4 0)
 					(length 2.54)
 					(name "PI10"
 						(effects
@@ -1515,8 +1366,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 81.28 0)
+				(pin unspecified line
+					(at 86.36 22.86 180)
 					(length 2.54)
 					(name "PA9"
 						(effects
@@ -1533,8 +1384,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 78.74 0)
+				(pin unspecified line
+					(at 86.36 25.4 180)
 					(length 2.54)
 					(name "PA10"
 						(effects
@@ -1551,8 +1402,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 76.2 0)
+				(pin unspecified line
+					(at 86.36 27.94 180)
 					(length 2.54)
 					(name "PA11"
 						(effects
@@ -1569,8 +1420,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 73.66 0)
+				(pin unspecified line
+					(at 86.36 30.48 180)
 					(length 2.54)
 					(name "PA12"
 						(effects
@@ -1587,8 +1438,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 71.12 0)
+				(pin unspecified line
+					(at 86.36 33.02 180)
 					(length 2.54)
 					(name "PA13"
 						(effects
@@ -1605,8 +1456,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 48.26 -96.52 180)
+				(pin unspecified line
+					(at 86.36 35.56 180)
 					(length 2.54)
 					(name "VCAP2"
 						(effects
@@ -1623,8 +1474,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 7.62 -114.3 90)
+				(pin unspecified line
+					(at 86.36 38.1 180)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -1641,8 +1492,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 2.54 111.76 270)
+				(pin unspecified line
+					(at 86.36 40.64 180)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -1659,8 +1510,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -15.24 180)
+				(pin unspecified line
+					(at 86.36 43.18 180)
 					(length 2.54)
 					(name "PH13"
 						(effects
@@ -1677,8 +1528,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -17.78 180)
+				(pin unspecified line
+					(at 86.36 45.72 180)
 					(length 2.54)
 					(name "PH14"
 						(effects
@@ -1695,8 +1546,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -53.34 180)
+				(pin unspecified line
+					(at -83.82 22.86 0)
 					(length 2.54)
 					(name "PI11"
 						(effects
@@ -1713,8 +1564,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -20.32 180)
+				(pin unspecified line
+					(at 86.36 48.26 180)
 					(length 2.54)
 					(name "PH15"
 						(effects
@@ -1731,8 +1582,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -25.4 180)
+				(pin unspecified line
+					(at 86.36 50.8 180)
 					(length 2.54)
 					(name "PI0"
 						(effects
@@ -1749,8 +1600,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -27.94 180)
+				(pin unspecified line
+					(at 86.36 53.34 180)
 					(length 2.54)
 					(name "PI1"
 						(effects
@@ -1767,8 +1618,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -30.48 180)
+				(pin unspecified line
+					(at 55.88 68.58 270)
 					(length 2.54)
 					(name "PI2"
 						(effects
@@ -1785,8 +1636,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -33.02 180)
+				(pin unspecified line
+					(at 53.34 68.58 270)
 					(length 2.54)
 					(name "PI3"
 						(effects
@@ -1803,8 +1654,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 10.16 -114.3 90)
+				(pin unspecified line
+					(at 50.8 68.58 270)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -1821,8 +1672,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 5.08 111.76 270)
+				(pin unspecified line
+					(at 48.26 68.58 270)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -1839,8 +1690,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 68.58 0)
+				(pin unspecified line
+					(at 45.72 68.58 270)
 					(length 2.54)
 					(name "PA14"
 						(effects
@@ -1857,8 +1708,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 66.04 0)
+				(pin unspecified line
+					(at 43.18 68.58 270)
 					(length 2.54)
 					(name "PA15"
 						(effects
@@ -1875,8 +1726,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -7.62 0)
+				(pin unspecified line
+					(at 40.64 68.58 270)
 					(length 2.54)
 					(name "PC10"
 						(effects
@@ -1893,8 +1744,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -12.7 -114.3 90)
+				(pin unspecified line
+					(at -83.82 20.32 0)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -1911,8 +1762,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -10.16 0)
+				(pin unspecified line
+					(at 38.1 68.58 270)
 					(length 2.54)
 					(name "PC11"
 						(effects
@@ -1929,8 +1780,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -12.7 0)
+				(pin unspecified line
+					(at 35.56 68.58 270)
 					(length 2.54)
 					(name "PC12"
 						(effects
@@ -1947,8 +1798,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -25.4 0)
+				(pin unspecified line
+					(at 33.02 68.58 270)
 					(length 2.54)
 					(name "PD0"
 						(effects
@@ -1965,8 +1816,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -27.94 0)
+				(pin unspecified line
+					(at 30.48 68.58 270)
 					(length 2.54)
 					(name "PD1"
 						(effects
@@ -1983,8 +1834,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -30.48 0)
+				(pin unspecified line
+					(at 27.94 68.58 270)
 					(length 2.54)
 					(name "PD2"
 						(effects
@@ -2001,8 +1852,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -33.02 0)
+				(pin unspecified line
+					(at 25.4 68.58 270)
 					(length 2.54)
 					(name "PD3"
 						(effects
@@ -2019,8 +1870,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -35.56 0)
+				(pin unspecified line
+					(at 22.86 68.58 270)
 					(length 2.54)
 					(name "PD4"
 						(effects
@@ -2037,8 +1888,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -38.1 0)
+				(pin unspecified line
+					(at 20.32 68.58 270)
 					(length 2.54)
 					(name "PD5"
 						(effects
@@ -2055,8 +1906,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 12.7 -114.3 90)
+				(pin unspecified line
+					(at 17.78 68.58 270)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -2073,8 +1924,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 7.62 111.76 270)
+				(pin unspecified line
+					(at 15.24 68.58 270)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -2091,8 +1942,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -20.32 111.76 270)
+				(pin unspecified line
+					(at -83.82 17.78 0)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -2109,8 +1960,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -40.64 0)
+				(pin unspecified line
+					(at 12.7 68.58 270)
 					(length 2.54)
 					(name "PD6"
 						(effects
@@ -2127,8 +1978,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -43.18 0)
+				(pin unspecified line
+					(at 10.16 68.58 270)
 					(length 2.54)
 					(name "PD7"
 						(effects
@@ -2145,8 +1996,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 38.1 180)
+				(pin unspecified line
+					(at 7.62 68.58 270)
 					(length 2.54)
 					(name "PG9"
 						(effects
@@ -2163,8 +2014,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 35.56 180)
+				(pin unspecified line
+					(at 5.08 68.58 270)
 					(length 2.54)
 					(name "PG10"
 						(effects
@@ -2181,8 +2032,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 33.02 180)
+				(pin unspecified line
+					(at 2.54 68.58 270)
 					(length 2.54)
 					(name "PG11"
 						(effects
@@ -2199,8 +2050,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 30.48 180)
+				(pin unspecified line
+					(at 0 68.58 270)
 					(length 2.54)
 					(name "PG12"
 						(effects
@@ -2217,8 +2068,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 27.94 180)
+				(pin unspecified line
+					(at -2.54 68.58 270)
 					(length 2.54)
 					(name "PG13"
 						(effects
@@ -2235,8 +2086,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 25.4 180)
+				(pin unspecified line
+					(at -5.08 68.58 270)
 					(length 2.54)
 					(name "PG14"
 						(effects
@@ -2253,8 +2104,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 15.24 -114.3 90)
+				(pin unspecified line
+					(at -7.62 68.58 270)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -2271,8 +2122,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 10.16 111.76 270)
+				(pin unspecified line
+					(at -10.16 68.58 270)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -2289,8 +2140,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 104.14 180)
+				(pin unspecified line
+					(at -83.82 15.24 0)
 					(length 2.54)
 					(name "PF0"
 						(effects
@@ -2307,8 +2158,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 22.86 180)
+				(pin unspecified line
+					(at -12.7 68.58 270)
 					(length 2.54)
 					(name "PG15"
 						(effects
@@ -2325,8 +2176,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 53.34 0)
+				(pin unspecified line
+					(at -15.24 68.58 270)
 					(length 2.54)
 					(name "PB3"
 						(effects
@@ -2343,8 +2194,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 50.8 0)
+				(pin unspecified line
+					(at -17.78 68.58 270)
 					(length 2.54)
 					(name "PB4"
 						(effects
@@ -2361,8 +2212,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 48.26 0)
+				(pin unspecified line
+					(at -20.32 68.58 270)
 					(length 2.54)
 					(name "PB5"
 						(effects
@@ -2379,8 +2230,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 45.72 0)
+				(pin unspecified line
+					(at -22.86 68.58 270)
 					(length 2.54)
 					(name "PB6"
 						(effects
@@ -2397,8 +2248,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 43.18 0)
+				(pin unspecified line
+					(at -25.4 68.58 270)
 					(length 2.54)
 					(name "PB7"
 						(effects
@@ -2415,8 +2266,8 @@
 						)
 					)
 				)
-				(pin input line
-					(at 48.26 -73.66 180)
+				(pin unspecified line
+					(at -27.94 68.58 270)
 					(length 2.54)
 					(name "BOOT0"
 						(effects
@@ -2433,8 +2284,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 40.64 0)
+				(pin unspecified line
+					(at -30.48 68.58 270)
 					(length 2.54)
 					(name "PB8"
 						(effects
@@ -2451,8 +2302,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 38.1 0)
+				(pin unspecified line
+					(at -33.02 68.58 270)
 					(length 2.54)
 					(name "PB9"
 						(effects
@@ -2469,8 +2320,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -68.58 0)
+				(pin unspecified line
+					(at -35.56 68.58 270)
 					(length 2.54)
 					(name "PE0"
 						(effects
@@ -2487,8 +2338,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 101.6 180)
+				(pin unspecified line
+					(at -83.82 12.7 0)
 					(length 2.54)
 					(name "PF1"
 						(effects
@@ -2505,8 +2356,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -71.12 0)
+				(pin unspecified line
+					(at -38.1 68.58 270)
 					(length 2.54)
 					(name "PE1"
 						(effects
@@ -2523,8 +2374,8 @@
 						)
 					)
 				)
-				(pin input line
-					(at 48.26 -63.5 180)
+				(pin unspecified line
+					(at -40.64 68.58 270)
 					(length 2.54)
 					(name "PDR_ON"
 						(effects
@@ -2541,8 +2392,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 12.7 111.76 270)
+				(pin unspecified line
+					(at -43.18 68.58 270)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -2559,8 +2410,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -35.56 180)
+				(pin unspecified line
+					(at -45.72 68.58 270)
 					(length 2.54)
 					(name "PI4"
 						(effects
@@ -2577,8 +2428,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -38.1 180)
+				(pin unspecified line
+					(at -48.26 68.58 270)
 					(length 2.54)
 					(name "PI5"
 						(effects
@@ -2595,8 +2446,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -40.64 180)
+				(pin unspecified line
+					(at -50.8 68.58 270)
 					(length 2.54)
 					(name "PI6"
 						(effects
@@ -2613,8 +2464,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -43.18 180)
+				(pin unspecified line
+					(at -53.34 68.58 270)
 					(length 2.54)
 					(name "PI7"
 						(effects
@@ -2631,8 +2482,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 99.06 180)
+				(pin unspecified line
+					(at -83.82 10.16 0)
 					(length 2.54)
 					(name "PF2"
 						(effects
@@ -2649,8 +2500,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 96.52 180)
+				(pin unspecified line
+					(at -83.82 7.62 0)
 					(length 2.54)
 					(name "PF3"
 						(effects
@@ -2667,8 +2518,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -76.2 0)
+				(pin unspecified line
+					(at -83.82 50.8 0)
 					(length 2.54)
 					(name "PE3"
 						(effects
@@ -2685,8 +2536,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 93.98 180)
+				(pin unspecified line
+					(at -83.82 5.08 0)
 					(length 2.54)
 					(name "PF4"
 						(effects
@@ -2703,8 +2554,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 91.44 180)
+				(pin unspecified line
+					(at -83.82 2.54 0)
 					(length 2.54)
 					(name "PF5"
 						(effects
@@ -2721,8 +2572,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -10.16 -114.3 90)
+				(pin unspecified line
+					(at -83.82 0 0)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -2739,8 +2590,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -17.78 111.76 270)
+				(pin unspecified line
+					(at -83.82 -2.54 0)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -2757,8 +2608,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 88.9 180)
+				(pin unspecified line
+					(at -83.82 -5.08 0)
 					(length 2.54)
 					(name "PF6"
 						(effects
@@ -2775,8 +2626,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 86.36 180)
+				(pin unspecified line
+					(at -83.82 -7.62 0)
 					(length 2.54)
 					(name "PF7"
 						(effects
@@ -2793,8 +2644,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 83.82 180)
+				(pin unspecified line
+					(at -83.82 -10.16 0)
 					(length 2.54)
 					(name "PF8"
 						(effects
@@ -2811,8 +2662,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 81.28 180)
+				(pin unspecified line
+					(at -83.82 -12.7 0)
 					(length 2.54)
 					(name "PF9"
 						(effects
@@ -2829,8 +2680,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 78.74 180)
+				(pin unspecified line
+					(at -83.82 -15.24 0)
 					(length 2.54)
 					(name "PF10"
 						(effects
@@ -2847,8 +2698,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 17.78 180)
+				(pin unspecified line
+					(at -83.82 -17.78 0)
 					(length 2.54)
 					(name "PH0-OSC_IN"
 						(effects
@@ -2865,8 +2716,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -78.74 0)
+				(pin unspecified line
+					(at -83.82 48.26 0)
 					(length 2.54)
 					(name "PE4"
 						(effects
@@ -2883,8 +2734,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 15.24 180)
+				(pin unspecified line
+					(at -83.82 -20.32 0)
 					(length 2.54)
 					(name "PH1-OSC_OUT"
 						(effects
@@ -2901,8 +2752,8 @@
 						)
 					)
 				)
-				(pin input line
-					(at 48.26 -83.82 180)
+				(pin unspecified line
+					(at -83.82 -22.86 0)
 					(length 2.54)
 					(name "NRST"
 						(effects
@@ -2919,8 +2770,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 17.78 0)
+				(pin unspecified line
+					(at -83.82 -25.4 0)
 					(length 2.54)
 					(name "PC0"
 						(effects
@@ -2937,8 +2788,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 15.24 0)
+				(pin unspecified line
+					(at -83.82 -27.94 0)
 					(length 2.54)
 					(name "PC1"
 						(effects
@@ -2955,8 +2806,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 12.7 0)
+				(pin unspecified line
+					(at -83.82 -30.48 0)
 					(length 2.54)
 					(name "PC2_C"
 						(effects
@@ -2973,8 +2824,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 10.16 0)
+				(pin unspecified line
+					(at -83.82 -33.02 0)
 					(length 2.54)
 					(name "PC3_C"
 						(effects
@@ -2991,8 +2842,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -15.24 111.76 270)
+				(pin unspecified line
+					(at -83.82 -35.56 0)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -3009,8 +2860,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 17.78 -114.3 90)
+				(pin unspecified line
+					(at -83.82 -38.1 0)
 					(length 2.54)
 					(name "VSSA"
 						(effects
@@ -3027,8 +2878,8 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 33.02 111.76 270)
+				(pin unspecified line
+					(at -83.82 -40.64 0)
 					(length 2.54)
 					(name "VREF+"
 						(effects
@@ -3045,8 +2896,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 27.94 111.76 270)
+				(pin unspecified line
+					(at -83.82 -43.18 0)
 					(length 2.54)
 					(name "VDDA"
 						(effects
@@ -3063,8 +2914,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -81.28 0)
+				(pin unspecified line
+					(at -83.82 45.72 0)
 					(length 2.54)
 					(name "PE5"
 						(effects
@@ -3081,8 +2932,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 104.14 0)
+				(pin unspecified line
+					(at -83.82 -45.72 0)
 					(length 2.54)
 					(name "PA0-WKUP"
 						(effects
@@ -3099,8 +2950,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 101.6 0)
+				(pin unspecified line
+					(at -83.82 -48.26 0)
 					(length 2.54)
 					(name "PA1"
 						(effects
@@ -3117,8 +2968,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 99.06 0)
+				(pin unspecified line
+					(at -83.82 -50.8 0)
 					(length 2.54)
 					(name "PA2"
 						(effects
@@ -3135,8 +2986,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 12.7 180)
+				(pin unspecified line
+					(at -83.82 -53.34 0)
 					(length 2.54)
 					(name "PH2"
 						(effects
@@ -3153,8 +3004,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 10.16 180)
+				(pin unspecified line
+					(at -83.82 -55.88 0)
 					(length 2.54)
 					(name "PH3"
 						(effects
@@ -3171,8 +3022,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 7.62 180)
+				(pin unspecified line
+					(at -53.34 -71.12 90)
 					(length 2.54)
 					(name "PH4"
 						(effects
@@ -3189,8 +3040,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 5.08 180)
+				(pin unspecified line
+					(at -50.8 -71.12 90)
 					(length 2.54)
 					(name "PH5"
 						(effects
@@ -3207,8 +3058,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 96.52 0)
+				(pin unspecified line
+					(at -48.26 -71.12 90)
 					(length 2.54)
 					(name "PA3"
 						(effects
@@ -3225,8 +3076,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -7.62 -114.3 90)
+				(pin unspecified line
+					(at -45.72 -71.12 90)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -3243,8 +3094,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -12.7 111.76 270)
+				(pin unspecified line
+					(at -43.18 -71.12 90)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -3261,8 +3112,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -83.82 0)
+				(pin unspecified line
+					(at -83.82 43.18 0)
 					(length 2.54)
 					(name "PE6"
 						(effects
@@ -3279,8 +3130,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 93.98 0)
+				(pin unspecified line
+					(at -40.64 -71.12 90)
 					(length 2.54)
 					(name "PA4"
 						(effects
@@ -3297,8 +3148,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 91.44 0)
+				(pin unspecified line
+					(at -38.1 -71.12 90)
 					(length 2.54)
 					(name "PA5"
 						(effects
@@ -3315,8 +3166,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 88.9 0)
+				(pin unspecified line
+					(at -35.56 -71.12 90)
 					(length 2.54)
 					(name "PA6"
 						(effects
@@ -3333,8 +3184,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 86.36 0)
+				(pin unspecified line
+					(at -33.02 -71.12 90)
 					(length 2.54)
 					(name "PA7"
 						(effects
@@ -3351,8 +3202,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 7.62 0)
+				(pin unspecified line
+					(at -30.48 -71.12 90)
 					(length 2.54)
 					(name "PC4"
 						(effects
@@ -3369,8 +3220,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 5.08 0)
+				(pin unspecified line
+					(at -27.94 -71.12 90)
 					(length 2.54)
 					(name "PC5"
 						(effects
@@ -3387,8 +3238,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 60.96 0)
+				(pin unspecified line
+					(at -25.4 -71.12 90)
 					(length 2.54)
 					(name "PB0"
 						(effects
@@ -3405,8 +3256,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 58.42 0)
+				(pin unspecified line
+					(at -22.86 -71.12 90)
 					(length 2.54)
 					(name "PB1"
 						(effects
@@ -3423,8 +3274,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 55.88 0)
+				(pin unspecified line
+					(at -20.32 -71.12 90)
 					(length 2.54)
 					(name "PB2"
 						(effects
@@ -3441,8 +3292,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 76.2 180)
+				(pin unspecified line
+					(at -17.78 -71.12 90)
 					(length 2.54)
 					(name "PF11"
 						(effects
@@ -3459,8 +3310,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 22.86 111.76 270)
+				(pin unspecified line
+					(at -83.82 40.64 0)
 					(length 2.54)
 					(name "VBAT"
 						(effects
@@ -3477,8 +3328,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 73.66 180)
+				(pin unspecified line
+					(at -15.24 -71.12 90)
 					(length 2.54)
 					(name "PF12"
 						(effects
@@ -3495,8 +3346,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -5.08 -114.3 90)
+				(pin unspecified line
+					(at -12.7 -71.12 90)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -3513,8 +3364,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -10.16 111.76 270)
+				(pin unspecified line
+					(at -10.16 -71.12 90)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -3531,8 +3382,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 71.12 180)
+				(pin unspecified line
+					(at -7.62 -71.12 90)
 					(length 2.54)
 					(name "PF13"
 						(effects
@@ -3549,8 +3400,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 68.58 180)
+				(pin unspecified line
+					(at -5.08 -71.12 90)
 					(length 2.54)
 					(name "PF14"
 						(effects
@@ -3567,8 +3418,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 66.04 180)
+				(pin unspecified line
+					(at -2.54 -71.12 90)
 					(length 2.54)
 					(name "PF15"
 						(effects
@@ -3585,8 +3436,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 60.96 180)
+				(pin unspecified line
+					(at 0 -71.12 90)
 					(length 2.54)
 					(name "PG0"
 						(effects
@@ -3603,8 +3454,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 58.42 180)
+				(pin unspecified line
+					(at 2.54 -71.12 90)
 					(length 2.54)
 					(name "PG1"
 						(effects
@@ -3621,8 +3472,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -86.36 0)
+				(pin unspecified line
+					(at 5.08 -71.12 90)
 					(length 2.54)
 					(name "PE7"
 						(effects
@@ -3639,8 +3490,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -88.9 0)
+				(pin unspecified line
+					(at 7.62 -71.12 90)
 					(length 2.54)
 					(name "PE8"
 						(effects
@@ -3657,8 +3508,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -45.72 180)
+				(pin unspecified line
+					(at -83.82 38.1 0)
 					(length 2.54)
 					(name "PI8"
 						(effects
@@ -3675,8 +3526,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -91.44 0)
+				(pin unspecified line
+					(at 10.16 -71.12 90)
 					(length 2.54)
 					(name "PE9"
 						(effects
@@ -3693,8 +3544,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -2.54 -114.3 90)
+				(pin unspecified line
+					(at 12.7 -71.12 90)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -3711,8 +3562,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -7.62 111.76 270)
+				(pin unspecified line
+					(at 15.24 -71.12 90)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -3729,8 +3580,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -93.98 0)
+				(pin unspecified line
+					(at 17.78 -71.12 90)
 					(length 2.54)
 					(name "PE10"
 						(effects
@@ -3747,8 +3598,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -96.52 0)
+				(pin unspecified line
+					(at 20.32 -71.12 90)
 					(length 2.54)
 					(name "PE11"
 						(effects
@@ -3765,8 +3616,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -99.06 0)
+				(pin unspecified line
+					(at 22.86 -71.12 90)
 					(length 2.54)
 					(name "PE12"
 						(effects
@@ -3783,8 +3634,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -101.6 0)
+				(pin unspecified line
+					(at 25.4 -71.12 90)
 					(length 2.54)
 					(name "PE13"
 						(effects
@@ -3801,8 +3652,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -104.14 0)
+				(pin unspecified line
+					(at 27.94 -71.12 90)
 					(length 2.54)
 					(name "PE14"
 						(effects
@@ -3819,8 +3670,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -106.68 0)
+				(pin unspecified line
+					(at 30.48 -71.12 90)
 					(length 2.54)
 					(name "PE15"
 						(effects
@@ -3837,8 +3688,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 35.56 0)
+				(pin unspecified line
+					(at 33.02 -71.12 90)
 					(length 2.54)
 					(name "PB10"
 						(effects
@@ -3855,8 +3706,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -15.24 0)
+				(pin unspecified line
+					(at -83.82 35.56 0)
 					(length 2.54)
 					(name "PC13"
 						(effects
@@ -3873,8 +3724,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 33.02 0)
+				(pin unspecified line
+					(at 35.56 -71.12 90)
 					(length 2.54)
 					(name "PB11"
 						(effects
@@ -3891,8 +3742,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 48.26 -93.98 180)
+				(pin unspecified line
+					(at 38.1 -71.12 90)
 					(length 2.54)
 					(name "VCAP1"
 						(effects
@@ -3909,8 +3760,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -5.08 111.76 270)
+				(pin unspecified line
+					(at 40.64 -71.12 90)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -3927,8 +3778,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 2.54 180)
+				(pin unspecified line
+					(at 43.18 -71.12 90)
 					(length 2.54)
 					(name "PH6"
 						(effects
@@ -3945,8 +3796,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 0 180)
+				(pin unspecified line
+					(at 45.72 -71.12 90)
 					(length 2.54)
 					(name "PH7"
 						(effects
@@ -3963,8 +3814,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -2.54 180)
+				(pin unspecified line
+					(at 48.26 -71.12 90)
 					(length 2.54)
 					(name "PH8"
 						(effects
@@ -3981,8 +3832,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -5.08 180)
+				(pin unspecified line
+					(at 50.8 -71.12 90)
 					(length 2.54)
 					(name "PH9"
 						(effects
@@ -3999,8 +3850,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -7.62 180)
+				(pin unspecified line
+					(at 53.34 -71.12 90)
 					(length 2.54)
 					(name "PH10"
 						(effects
@@ -4017,8 +3868,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -10.16 180)
+				(pin unspecified line
+					(at 55.88 -71.12 90)
 					(length 2.54)
 					(name "PH11"
 						(effects
@@ -4035,8 +3886,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 48.26 -12.7 180)
+				(pin unspecified line
+					(at 86.36 -55.88 180)
 					(length 2.54)
 					(name "PH12"
 						(effects
@@ -4053,8 +3904,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -17.78 0)
+				(pin unspecified line
+					(at -83.82 33.02 0)
 					(length 2.54)
 					(name "PC14-OSC32_IN"
 						(effects
@@ -4071,8 +3922,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 0 -114.3 90)
+				(pin unspecified line
+					(at 86.36 -53.34 180)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -4089,8 +3940,8 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -2.54 111.76 270)
+				(pin unspecified line
+					(at 86.36 -50.8 180)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -4107,8 +3958,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 30.48 0)
+				(pin unspecified line
+					(at 86.36 -48.26 180)
 					(length 2.54)
 					(name "PB12"
 						(effects
@@ -4125,8 +3976,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 27.94 0)
+				(pin unspecified line
+					(at 86.36 -45.72 180)
 					(length 2.54)
 					(name "PB13"
 						(effects
@@ -4143,8 +3994,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 25.4 0)
+				(pin unspecified line
+					(at 86.36 -43.18 180)
 					(length 2.54)
 					(name "PB14"
 						(effects
@@ -4161,8 +4012,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 22.86 0)
+				(pin unspecified line
+					(at 86.36 -40.64 180)
 					(length 2.54)
 					(name "PB15"
 						(effects
@@ -4179,8 +4030,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -45.72 0)
+				(pin unspecified line
+					(at 86.36 -38.1 180)
 					(length 2.54)
 					(name "PD8"
 						(effects
@@ -4197,8 +4048,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -48.26 0)
+				(pin unspecified line
+					(at 86.36 -35.56 180)
 					(length 2.54)
 					(name "PD9"
 						(effects
@@ -4215,8 +4066,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -50.8 0)
+				(pin unspecified line
+					(at 86.36 -33.02 180)
 					(length 2.54)
 					(name "PD10"
 						(effects
@@ -4233,8 +4084,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -43.18 -53.34 0)
+				(pin unspecified line
+					(at 86.36 -30.48 180)
 					(length 2.54)
 					(name "PD11"
 						(effects
@@ -5225,7 +5076,7 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "SW"
-				(at 0 11.43 0)
+				(at -12.7 3.81 90)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -5233,7 +5084,7 @@
 				)
 			)
 			(property "Value" "PEC12R-4120F-S0012-C143801"
-				(at 0 -13.97 0)
+				(at 0 -13.462 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -5259,7 +5110,7 @@
 				)
 			)
 			(property "Description" ""
-				(at 0 0 0)
+				(at -0.762 3.81 90)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -5278,8 +5129,8 @@
 			)
 			(symbol "PEC12R-4120F-S0012-C143801_0_1"
 				(rectangle
-					(start -5.08 3.81)
-					(end 5.08 -6.35)
+					(start -5.08 12.446)
+					(end 11.684 -5.08)
 					(stroke
 						(width 0)
 						(type default)
@@ -5288,8 +5139,209 @@
 						(type background)
 					)
 				)
+				(circle
+					(center -2.794 2.032)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.794 5.588)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 1.27) (xy -3.302 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 1.27) (xy -2.794 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 6.35) (xy -3.556 6.35)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 6.35) (xy -2.794 6.35)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.794 1.524) (xy -2.794 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.794 1.524) (xy -2.794 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.794 5.842) (xy -2.794 6.35)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 3.81) (xy -1.27 3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 6.096) (xy -2.286 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 5.842) (xy 8.89 6.35)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.144 1.524) (xy 9.144 1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.652 1.016) (xy 9.144 1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.652 6.35) (xy 8.89 6.35)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 5.08 3.556)
+					(radius 3.2528)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 7.6199 0)
+					(mid 9.0929 3.556)
+					(end 7.6199 7.112)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
 				(pin unspecified line
-					(at -2.54 6.35 270)
+					(at -7.62 6.35 0)
 					(length 2.54)
 					(name "1"
 						(effects
@@ -5307,7 +5359,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 2.54 6.35 270)
+					(at -7.62 1.27 0)
 					(length 2.54)
 					(name "2"
 						(effects
@@ -5325,7 +5377,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 0 180)
+					(at 2.54 -7.62 90)
 					(length 2.54)
 					(name "3"
 						(effects
@@ -5343,7 +5395,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 0 0)
+					(at 2.54 15.24 270)
 					(length 2.54)
 					(name "4"
 						(effects
@@ -5361,7 +5413,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -2.54 -8.89 90)
+					(at 13.97 6.35 180)
 					(length 2.54)
 					(name "A"
 						(effects
@@ -5379,7 +5431,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 2.54 -8.89 90)
+					(at 13.97 1.27 180)
 					(length 2.54)
 					(name "B"
 						(effects
@@ -5397,7 +5449,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 0 -8.89 90)
+					(at 13.97 3.81 180)
 					(length 2.54)
 					(name "C"
 						(effects
@@ -25414,7 +25466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 660.4 127 0)
 			(effects
 				(font
@@ -25559,7 +25611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 43.18 283.21 0)
 			(effects
 				(font
@@ -25702,7 +25754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 645.16 322.58 0)
 			(effects
 				(font
@@ -26017,7 +26069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 703.58 383.54 0)
 			(effects
 				(font
@@ -26083,7 +26135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 703.58 96.52 0)
 			(effects
 				(font
@@ -26148,7 +26200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+VSYS'"
 			(at 619.76 482.6 0)
 			(effects
 				(font
@@ -26748,7 +26800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 662.94 287.02 0)
 			(effects
 				(font
@@ -26813,7 +26865,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 662.94 337.82 0)
 			(effects
 				(font
@@ -26879,7 +26931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 207.01 132.08 0)
 			(effects
 				(font
@@ -27458,7 +27510,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 190.5 514.35 0)
 			(effects
 				(font
@@ -27524,7 +27576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 645.16 220.98 0)
 			(effects
 				(font
@@ -27590,7 +27642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 614.68 439.42 0)
 			(effects
 				(font
@@ -27655,7 +27707,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 76.2 204.47 0)
 			(effects
 				(font
@@ -27721,7 +27773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 279.4 240.03 0)
 			(effects
 				(font
@@ -27787,7 +27839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 576.58 96.1644 0)
 			(effects
 				(font
@@ -27853,7 +27905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 218.44 567.69 0)
 			(effects
 				(font
@@ -28718,7 +28770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 198.12 349.25 0)
 			(effects
 				(font
@@ -28784,7 +28836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 72.39 295.91 0)
 			(effects
 				(font
@@ -29729,7 +29781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 576.58 419.1 0)
 			(effects
 				(font
@@ -29795,7 +29847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 576.58 136.8044 0)
 			(effects
 				(font
@@ -30201,7 +30253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 703.58 137.16 0)
 			(effects
 				(font
@@ -30266,7 +30318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 728.98 78.74 0)
 			(effects
 				(font
@@ -31198,7 +31250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 749.3 149.86 0)
 			(effects
 				(font
@@ -31264,7 +31316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 246.38 247.65 0)
 			(effects
 				(font
@@ -31649,7 +31701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 662.94 185.42 0)
 			(effects
 				(font
@@ -31715,7 +31767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 99.06 273.05 0)
 			(effects
 				(font
@@ -31780,7 +31832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0_OSC2'"
 			(at 72.39 265.43 0)
 			(effects
 				(font
@@ -31845,7 +31897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 622.3 340.36 0)
 			(effects
 				(font
@@ -32631,7 +32683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 231.14 132.08 0)
 			(effects
 				(font
@@ -32772,7 +32824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0_OSC1'"
 			(at 241.3 417.83 0)
 			(effects
 				(font
@@ -32838,7 +32890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 271.78 435.61 0)
 			(effects
 				(font
@@ -33641,7 +33693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 670.56 110.8456 0)
 			(effects
 				(font
@@ -35500,7 +35552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 703.58 281.94 0)
 			(effects
 				(font
@@ -36313,7 +36365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 576.58 429.26 0)
 			(effects
 				(font
@@ -36628,7 +36680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 477.52 282.8544 0)
 			(effects
 				(font
@@ -36694,7 +36746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 513.08 504.19 0)
 			(effects
 				(font
@@ -36836,7 +36888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 645.16 375.92 0)
 			(effects
 				(font
@@ -36902,7 +36954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 153.67 154.94 0)
 			(effects
 				(font
@@ -37216,7 +37268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 622.3 238.76 0)
 			(effects
 				(font
@@ -37282,7 +37334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 424.18 506.73 0)
 			(effects
 				(font
@@ -37347,7 +37399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 622.3 289.56 0)
 			(effects
 				(font
@@ -38120,7 +38172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 622.3 187.96 0)
 			(effects
 				(font
@@ -38143,8 +38195,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad_script3:PEC12R-4120F-S0012-C143801")
-		(at 538.48 212.09 90)
-		(mirror x)
+		(at 778.51 208.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38152,7 +38203,7 @@
 		(dnp no)
 		(uuid "53bacc12-4435-4f7a-bad6-7427845d5a94")
 		(property "Reference" "SW1"
-			(at 540.6741 222.25 90)
+			(at 772.414 209.042 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38161,7 +38212,7 @@
 			)
 		)
 		(property "Value" "PEC12R-4120F-S0012-C143801"
-			(at 540.6741 219.71 90)
+			(at 815.594 215.646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38169,8 +38220,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "easyeda2kicad_script3:SW-TH_PEC12R-4120F-S0012"
-			(at 554.99 212.09 0)
+		(property "Footprint" "easyeda2kicad:SW-TH_PEC12R-4120F-S0012"
+			(at 778.51 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38179,7 +38230,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Coded-Rotary-Switches_BOURNS_PEC12R-4120F-S0012_PEC12R-4120F-S0012_C143801.html"
-			(at 557.53 212.09 0)
+			(at 778.51 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38188,7 +38239,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 538.48 212.09 0)
+			(at 778.51 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38197,7 +38248,7 @@
 			)
 		)
 		(property "LCSC Part" "C143801"
-			(at 560.07 212.09 0)
+			(at 778.51 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38280,7 +38331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 241.3 445.77 0)
 			(effects
 				(font
@@ -38346,7 +38397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 599.44 487.68 0)
 			(effects
 				(font
@@ -38942,7 +38993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 381 328.93 0)
 			(effects
 				(font
@@ -39257,7 +39308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 424.18 272.6944 0)
 			(effects
 				(font
@@ -39399,7 +39450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 599.44 101.6 0)
 			(effects
 				(font
@@ -39465,7 +39516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 627.38 215.9 0)
 			(effects
 				(font
@@ -39531,7 +39582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 82.55 161.29 0)
 			(effects
 				(font
@@ -39998,7 +40049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 601.98 320.04 0)
 			(effects
 				(font
@@ -40313,7 +40364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 238.76 224.79 0)
 			(effects
 				(font
@@ -40378,7 +40429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 599.44 127 0)
 			(effects
 				(font
@@ -41496,7 +41547,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 749.3 109.22 0)
 			(effects
 				(font
@@ -41562,7 +41613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 477.52 223.52 0)
 			(effects
 				(font
@@ -42054,7 +42105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 601.98 269.24 0)
 			(effects
 				(font
@@ -42100,7 +42151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad_script3:HDR-TH_34P-P2.54-V-F-R2-C17-S2.54-1"
+		(property "Footprint" "easyeda2kicad:HDR-TH_34P-P2.54-V-F-R2-C17-S2.54-1"
 			(at 434.34 276.86 0)
 			(effects
 				(font
@@ -42443,7 +42494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+VSYS'"
 			(at 508 224.4344 0)
 			(effects
 				(font
@@ -42758,7 +42809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 147.32 278.13 0)
 			(effects
 				(font
@@ -42976,7 +43027,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 627.38 368.3 0)
 			(effects
 				(font
@@ -43042,7 +43093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 660.4 101.6 0)
 			(effects
 				(font
@@ -44752,7 +44803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 449.58 327.3044 0)
 			(effects
 				(font
@@ -45066,7 +45117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 728.98 119.38 0)
 			(effects
 				(font
@@ -45131,7 +45182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 650.24 419.1 0)
 			(effects
 				(font
@@ -45426,7 +45477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad_script3:OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI"
+		(property "Footprint" "easyeda2kicad:OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI"
 			(at 227.584 447.802 0)
 			(effects
 				(font
@@ -45604,7 +45655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 650.24 429.26 0)
 			(effects
 				(font
@@ -45670,7 +45721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 266.7 247.65 0)
 			(effects
 				(font
@@ -45735,7 +45786,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 403.86 488.95 0)
 			(effects
 				(font
@@ -45801,7 +45852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 627.38 317.5 0)
 			(effects
 				(font
@@ -46095,7 +46146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 218.44 260.35 0)
 			(effects
 				(font
@@ -46160,7 +46211,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+VSYS'"
 			(at 508 265.0744 0)
 			(effects
 				(font
@@ -46226,7 +46277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 114.3 143.51 0)
 			(effects
 				(font
@@ -46371,7 +46422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 477.52 252.3744 0)
 			(effects
 				(font
@@ -46686,7 +46737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 609.6 112.1156 0)
 			(effects
 				(font
@@ -47029,7 +47080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 193.04 273.05 0)
 			(effects
 				(font
@@ -47767,7 +47818,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 662.94 236.22 0)
 			(effects
 				(font
@@ -47909,7 +47960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 121.92 575.31 0)
 			(effects
 				(font
@@ -47975,7 +48026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 609.6 151.4856 0)
 			(effects
 				(font
@@ -48289,7 +48340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 660.4 86.36 0)
 			(effects
 				(font
@@ -48355,7 +48406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 259.08 473.71 0)
 			(effects
 				(font
@@ -49101,7 +49152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 508 234.5944 0)
 			(effects
 				(font
@@ -49166,7 +49217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 508 204.1144 0)
 			(effects
 				(font
@@ -49554,7 +49605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 703.58 332.74 0)
 			(effects
 				(font
@@ -49620,7 +49671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 601.98 218.44 0)
 			(effects
 				(font
@@ -49762,7 +49813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 449.58 408.5844 0)
 			(effects
 				(font
@@ -50217,7 +50268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 523.24 511.81 0)
 			(effects
 				(font
@@ -50359,7 +50410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 43.18 420.37 0)
 			(effects
 				(font
@@ -50903,7 +50954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 93.98 161.29 0)
 			(effects
 				(font
@@ -50969,7 +51020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 248.92 124.46 0)
 			(effects
 				(font
@@ -51035,7 +51086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 660.4 142.24 0)
 			(effects
 				(font
@@ -51176,7 +51227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 288.29 107.95 0)
 			(effects
 				(font
@@ -51242,7 +51293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 660.4 487.68 0)
 			(effects
 				(font
@@ -51622,7 +51673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 289.56 417.83 0)
 			(effects
 				(font
@@ -52211,7 +52262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 601.98 370.84 0)
 			(effects
 				(font
@@ -52887,7 +52938,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+VSYS'"
 			(at 680.72 482.6 0)
 			(effects
 				(font
@@ -52953,7 +53004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 513.08 524.51 0)
 			(effects
 				(font
@@ -53019,7 +53070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 76.2 224.79 0)
 			(effects
 				(font
@@ -53085,7 +53136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 670.56 149.86 0)
 			(effects
 				(font
@@ -53555,7 +53606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 599.44 86.36 0)
 			(effects
 				(font
@@ -53621,7 +53672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 266.7 83.82 0)
 			(effects
 				(font
@@ -53763,7 +53814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 133.35 152.4 0)
 			(effects
 				(font
@@ -53905,7 +53956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 599.44 142.24 0)
 			(effects
 				(font
@@ -53971,7 +54022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 166.37 154.94 0)
 			(effects
 				(font
@@ -54480,7 +54531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 518.16 481.33 0)
 			(effects
 				(font
@@ -54527,7 +54578,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad_script3:OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI"
+		(property "Footprint" "easyeda2kicad:OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI"
 			(at 86.106 295.402 0)
 			(effects
 				(font
@@ -54878,7 +54929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 44.45 146.05 0)
 			(effects
 				(font
@@ -55847,7 +55898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 472.44 524.51 0)
 			(effects
 				(font
@@ -55991,7 +56042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 187.96 529.59 0)
 			(effects
 				(font
@@ -56037,7 +56088,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad_script3:LQFP-176_L24.0-W24.0-P0.50-LS26.0-BL"
+		(property "Footprint" "easyeda2kicad:LQFP-176_L24.0-W24.0-P0.50-LS26.0-BL"
 			(at 134.62 530.86 0)
 			(effects
 				(font
@@ -56654,7 +56705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 449.58 375.5644 0)
 			(effects
 				(font
@@ -56798,7 +56849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0_DISP'"
 			(at 487.68 204.1144 0)
 			(effects
 				(font
@@ -57314,7 +57365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 267.97 140.97 0)
 			(effects
 				(font
@@ -57629,7 +57680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 381 349.25 0)
 			(effects
 				(font
@@ -57694,7 +57745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0_SD'"
 			(at 429.26 488.95 0)
 			(effects
 				(font
@@ -57759,7 +57810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+VUSB'"
 			(at 119.38 93.98 0)
 			(effects
 				(font
@@ -58678,7 +58729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+VSYS_DISP'"
 			(at 487.68 265.0744 0)
 			(effects
 				(font
@@ -58744,7 +58795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 449.58 360.3244 0)
 			(effects
 				(font
@@ -58809,7 +58860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+VBL'"
 			(at 487.68 224.4344 0)
 			(effects
 				(font
@@ -58874,7 +58925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 22.86 265.43 0)
 			(effects
 				(font
@@ -59268,7 +59319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 645.16 271.78 0)
 			(effects
 				(font
@@ -59334,7 +59385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 690.88 439.42 0)
 			(effects
 				(font
@@ -59400,7 +59451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 219.71 132.08 0)
 			(effects
 				(font
@@ -59542,7 +59593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 128.27 157.48 0)
 			(effects
 				(font
@@ -59607,7 +59658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name '+3V0'"
 			(at 231.14 463.55 0)
 			(effects
 				(font
@@ -59673,7 +59724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 627.38 266.7 0)
 			(effects
 				(font
@@ -59988,7 +60039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name 'GND'"
 			(at 703.58 231.14 0)
 			(effects
 				(font
